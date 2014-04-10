@@ -1,4 +1,5 @@
 tf300t-kernel
 =============
 
-tf300t kernel source
+Kernel source for
+  Asus TF300T (bootloader v10.6.1.72.5)
